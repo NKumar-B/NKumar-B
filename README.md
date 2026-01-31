@@ -13,5 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nkumar-b&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## ✍️ Dev Quote:
-“Progress in technology comes from curiosity, consistency, and the courage to keep learning.”
-                                                                                 <br> - Nithin kumar Badduluri 
+“Progress in technology comes from curiosity, consistency, and the courage to keep learning.” - Nithin kumar Badduluri 
