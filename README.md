@@ -1,7 +1,6 @@
 ## Hi there 👋
 ## 💫 About Me:
-🔭 Working on AI, Machine Learning, Data Science, and Full-Stack Web Development. <br>👯 Interested in collaborating on beginner-friendly and open-source projects.<br>🌱 Currently learning ML fundamentals, data analysis, and modern web technologies.<br>💬 Ask me about AI/ML basics, data science, and full-stack development.<br>⚡ Fun fact: Focused on consistent learning and continuous improvement.
-
+🔭 Working on Artificial Intelligence, Machine Learning, and Full-Stack Web Development. <br>👯 Interested in collaborating on real-time application and service-oriented projects.<br>🌱 Currently working and gaining knowledge from ML projects, data analysis, and modern web technologies.<br>💬 Ask me about AI/ML basics, data science, and full-stack development.<br>⚡ Fun fact: Every bug I fix makes me a better developer than yesterday 😄..
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nithin-kumar-badduluri-3942512a6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NithinKumar7893) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithinkumarbadduluri@gmail.com) 
@@ -15,4 +14,4 @@
 
 ## ✍️ Dev Quote:
 “Progress in technology comes from curiosity, consistency, and the courage to keep learning.”
-                                                                                  - Nithin kumar Badduluri 
+                                                                                 <br> - Nithin kumar Badduluri 
