@@ -1,4 +1,4 @@
-## Hi there 👋..
+## Hi there 👋...
  I am **Badduluri Nithin Kumar**.<br><br>
  Full-Stack Java Developer    **|**    MERN Developer    **|**    AI&ML Developer(Agentic AI).
  
@@ -197,24 +197,24 @@
 
 
 ## 💼 Experience
-- **Research Intern — IIT Kharagpur**
+- **Research Intern - IIT Kharagpur**
 
-    December 2025 – February 2026
-
+    _December 2025 – February 2026_
+  
     Worked on full-stack web development and research activities, contributed to software development, led the team throughout the internship, and developed software that was submitted for copyright registration.
 
 - **AI&ML Developer Internship - Vaultsphere AI Technologies Pvt. Ltd.**
 
-    May 2026 – July 2026
+   _May 2026 – July 2026_
 
     Worked on AI&ML projects and gained practical exposure through hands-on projects.
 
 
 ## 🏆 Achievements & Certifications
 
-- Second Prize — Technical Paper Writing
-- Academic Excellence Award — 2023–24
-- NPTEL Internship Certificate — IIT Kharagpur
+- Second Prize - Technical Paper Writing
+- Academic Excellence Award - 2023–24
+- NPTEL Internship Certificate - IIT Kharagpur
 - Full Stack Web Development Certification
 - AI/ML & Generative AI Projects
   
